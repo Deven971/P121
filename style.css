@@ -1,0 +1,46 @@
+h1
+{
+    background-color: yellowgreen;
+        text-align: center;
+        color: red;
+        font-family: cursive;
+}
+
+#googleLensLogo
+{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+
+span
+{
+    text-align: center;
+}
+
+#btn-mobilenet
+{
+    font-size: 18px;
+    font-family: monospace;
+    background-color: blue;
+    color: white;
+}
+
+.img-responsive
+{
+    height: 100px;
+    width: 100px;
+}
+
+.test_image_and_result
+{
+    background-color: grey;
+}
+
+#copy-right-footer
+{
+    background-color: darkorange;
+    color: white;
+    height:5%
+    
+}
